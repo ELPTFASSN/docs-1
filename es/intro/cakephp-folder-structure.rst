@@ -1,4 +1,4 @@
-CakePHP Folder Structure
+Estructura de carpetas CakePHP
 ########################
 
 Después de haber descargado y extraido la aplicación CakePHP, estos son los
@@ -69,5 +69,5 @@ Template
     layouts, y templates.
 
 .. meta::
-    :title lang=es: CakePHP Structura de Carpetas
+    :title lang=es: Estructura de carpetas CakePHP
     :keywords lang=es: librerias internas,configuracion core,descripciones de modelos, vendors externos,detalles de conexión,estructura de carpetas,librerías,compromiso personal,conexión base de datos,internacionalización,archivos de configuración,carpetas,desarrollo de aplicaciones,léeme,lib,configurado,logs,config,third party,cakephp
